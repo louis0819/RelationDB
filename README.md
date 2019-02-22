@@ -1,2 +1,2 @@
 # RelationDB
-![image](http://github.com/louis0819/RelationDB/raw/master/show1.jpg)
+![image](https://github.com/louis0819/RelationDB/blob/master/show1.jpg)
